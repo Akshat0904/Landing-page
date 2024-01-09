@@ -4,5 +4,6 @@
      },
      "css.validate": false,
      "editor.inlineSuggest.enabled": true,
-    "tailwindCSS.emmetCompletions": true
+    "tailwindCSS.emmetCompletions": true,
+    "liveServer.settings.port": 5501
 }
